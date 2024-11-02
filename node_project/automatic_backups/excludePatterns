@@ -1,0 +1,12 @@
+node_modules
+
+*/excludePatterns
+*/env_variables
+*/automatic_backups
+
+*/token.json
+*/credentials.json
+*/data
+*/img
+**.sh
+**.git

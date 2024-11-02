@@ -1,0 +1,29 @@
+# -------------------------------------------
+### Environment (PABLO/KIMY):
+
+environment=PABLO
+#environment=KIMY
+
+
+# -------------------------------------------
+### Remote Server:
+
+server_ip=198.211.100.61
+server_user=developer
+server_dirname=node_project
+server_path=/home/developer
+
+
+
+# -------------------------------------------
+# Avoid to include the DIRNAME in the PATH
+
+local_dirname=node_project
+
+
+### Kimy:
+kimy_local_path=/home/kitty/Documents/Dev
+
+
+### Pablo:
+pablo_local_path=/home/pablo
